@@ -12,14 +12,15 @@
 * *“Double-barreled Shotgun”* changed to *“L.C. Smith 12 Gauge”*.
 * *“DP-28”* changed to *“DP-27”*.
 * *“FG42”* changed to *“FG 42”*.
-* *“Kar98k”* changed to *“Karabiner 98k”*.
+* *“Gewehr 43”* changed to *“Rifle 43”*.
+* *“Kar98k”* changed to *“Carbine 98k”*.
 * *“M1897 Trench Gun”* changed to *“Winchester Model 1897 Trench Gun”*.
 * *“M1A1 Carbine”* changed to *“M1 Carbine”*.
 * *“M1A1 Garand”* changed to *“M1 Rifle”*.
 * *“MG42”* changed to *“MG 42”*.
 * *“Mosin-Nagant”* changed to *“Carbine r. 1938”*.
 * *“MP40”* changed to *“MP 40”*.
-* *“Nambu”* changed to *“Model 14”*.
+* *“Nambu”* changed to *“Model 14 Pistol”*.
 * *“PPSh-41”* changed to *“PPSH-41”*.
 * *“Springfield M1903”* changed to *“M1903A1 Rifle”*.
 * *“StG 44”* changed to *“MP 43”*.
